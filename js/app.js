@@ -4,7 +4,7 @@
  *   Poetica (c) Reetabrata Bhandari | All rights reserved (GitHub - @jimfleax)
  */
 
-const utils = require("./utils.js");
+import utils from "./utils.js";
 document.body.onload = () => {
   if (
     Math.round(
