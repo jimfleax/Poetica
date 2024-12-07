@@ -3,8 +3,6 @@
  *   Version: 1.0
  *   Poetica (c) Reetabrata Bhandari | All rights reserved (GitHub - @jimfleax)
  */
-
-import utils from "./utils.js";
 document.body.onload = () => {
   if (
     Math.round(
